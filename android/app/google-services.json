@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "35222737257",
+    "project_id": "furniture-31a13",
+    "storage_bucket": "furniture-31a13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35222737257:android:c3b919b0f4c44377536df8",
+        "android_client_info": {
+          "package_name": "com.mernaali.furniture.furniture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35222737257-g4o4212uq1mc1rp02hqp8gvbvmf1falg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mernaali.furniture.furniture",
+            "certificate_hash": "d72d8cad96b7564cd8b05affaf9577b8e1caa5d2"
+          }
+        },
+        {
+          "client_id": "35222737257-b7vvrs8te4i8mpm1sne1jtiltoml5120.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVPudrn9zAK-qO1R2WN85ALc9D_mJ79y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35222737257-b7vvrs8te4i8mpm1sne1jtiltoml5120.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
